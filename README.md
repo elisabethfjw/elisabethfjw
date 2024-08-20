@@ -1,7 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&color=000000&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi!+👋;+I'm+Elisabeth+Fung!;" />
 </h1>
-<h2 align="center">Data | AI | UI/UX</h2>
 <div align="center"> 
   <a href="mailto:elisabeth_fung@mymail.sutd.edu.sg">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
