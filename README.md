@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&color=000000&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi!+👋;+I'm+Elisabeth+Fung!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&color=000000&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=hi!+👋;+i'm+elisabeth!;" />
 </h1>
 <div align="center"> 
   <a href="mailto:elisabeth_fung@mymail.sutd.edu.sg">
@@ -13,7 +13,7 @@
   </a>
 </div>
 <br/>
-<h2 align="center">Skills</h2>
+<h2 align="center">skills</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,mui,figma,github,git&theme=light" />
     <br>
